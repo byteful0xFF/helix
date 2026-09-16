@@ -4,6 +4,8 @@
 
 helix is a small, stack-based language similar to assembly. programs are made from 3-character instructions called **codons**.
 
+***fully programmed using python.***
+
 function and package support are planned for future versions.
 
 ---
