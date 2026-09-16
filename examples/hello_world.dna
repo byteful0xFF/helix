@@ -1,0 +1,6 @@
+; hello world
+; prints a string using STR
+
+TGA Hello, world! TGA
+
+GTC
