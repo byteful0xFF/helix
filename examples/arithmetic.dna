@@ -1,0 +1,15 @@
+; demonstrate basic arithmetic
+
+; 5 + 3
+ACC AAT CAA TAA
+
+; 5 * 3
+ACC AAT CAG TAA
+
+; 5 - 3
+ACC AAT CAC TAA
+
+; 5 / 2
+ACC AAG CAT TAA
+
+GTC
